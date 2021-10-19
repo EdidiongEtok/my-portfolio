@@ -1,0 +1,60 @@
+
+#skills{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
+    align-items: center;
+    padding: 20px;
+    height: 80vh;
+    width: 100%;
+    box-sizing: border-box;
+}
+#row{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 4rem 0 3rem;
+    box-sizing: border-box;
+    justify-content: center;
+    justify-items: center;
+}
+
+.progressbar{
+    height: 2.5rem;
+    width: 90%;
+    background-color: grey;
+    border-radius: 20px;
+    
+    
+}
+
+.html_progress{
+    width: 50%;
+    height: 2.5rem;
+    background-color: rgb(58, 56, 56);
+    border-radius: 20px 0 0 20px;
+}
+
+.css_progress{
+    width: 20%;
+    height: 2.5rem;
+    background-color: rgb(58, 56, 56);
+    border-radius: 20px 0 0 20px;
+}
+
+.js_progress{
+    width: 30%;
+    height: 2.5rem;
+    background-color: rgb(58, 56, 56);
+    border-radius: 20px 0 0 20px;
+}
+
+.csharp_progress{
+    width: 5%;
+    height: 2.5rem;
+    background-color: rgb(58, 56, 56);
+    border-radius: 20px 0 0 20px;
+}

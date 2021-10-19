@@ -1,0 +1,33 @@
+#about{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: thistle;
+    font-size: 1.2rem;
+
+}
+.headings{
+    text-align: center;
+}
+#pic{
+    display: flex;
+}
+#pic img{
+width: 30%;
+height: 400px;
+
+}
+#intro{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 10px;width: 40%;
+
+}
+#intro h2{
+    font-size: 2rem;
+    scroll-margin-bottom: 20px;
+}
