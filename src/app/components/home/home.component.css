@@ -32,6 +32,7 @@ opacity: .8;
 }
 
 .heading{
+    text-transform: uppercase;
     font-family: century;
     font-size: 4rem;
     text-align: center;
